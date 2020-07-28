@@ -1,1 +1,1 @@
-# Stock-Predictior
+# Stock-Predictor
